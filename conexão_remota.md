@@ -192,7 +192,7 @@ Este link deve levar a tela de login do NAS
 
 - Abrir-se-á uma tela que possui um campo denominado *Server Address*, nele preencha com o seguinte link:
 
-*smb://192.168.169.156/EGR_Essential*
+*smb://192.168.196.156/EGR_Essential*
 
 ![alt text](./img/MACOS/server_addr.png)
 
