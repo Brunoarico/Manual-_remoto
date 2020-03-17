@@ -127,9 +127,6 @@ disponível:
 
 ![alt text](./img/credenciais.jpg)
 
-Usuário | Senha
---------|------
-remote_user | X0C0r0n4V
 
 (Prestar atenção aos maiúsculos e minúsculos da senha), para o **Financeiro**, as credenciais são diferentes, como já avisados.
 
