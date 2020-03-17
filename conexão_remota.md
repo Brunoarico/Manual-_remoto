@@ -46,7 +46,7 @@ Este tutorial cobre o sistema operacional windows 10 e macOS (apesar de eu nao t
 
  ![alt text](./img/join.jpg)
 
- - Na caixa que aparecerá insira o código: **______________** (exatamente como está escrito aqui)
+ - Na caixa que aparecerá insira o código: **1d7193940454fcec** (exatamente como está escrito aqui)
 
  ![alt text](./img/join_process.jpg)
 
